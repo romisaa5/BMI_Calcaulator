@@ -14,16 +14,16 @@ The **BMI Calculator App** helps users determine their Body Mass Index (BMI) bas
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/README/splash.PNG" alt="Splash Screen" width="200"></td>
-      <td><img src="assets/README/home_screen.PNG" alt="Home Screen" width="200"></td>
+      <td><img src="assets/images/splash.PNG" alt="Splash Screen" width="200"></td>
+      <td><img src="assets/images/home_screen.PNG" alt="Home Screen" width="200"></td>
     </tr>
     <tr>
       <td><b>Splash Screen</b></td>
       <td><b>Home Screen</b></td>
     </tr>
     <tr>
-      <td><img src="assets/README/Modifyvalues.PNG" alt="Modify Values" width="200"></td>
-      <td><img src="assets/README/result_screen.PNG" alt="Result Screen" width="200"></td>
+      <td><img src="assets/images/Modifyvalues.PNG" alt="Modify Values" width="200"></td>
+      <td><img src="assets/images/result_screen.PNG" alt="Result Screen" width="200"></td>
     </tr>
     <tr>
       <td><b>Modify Values</b></td>
